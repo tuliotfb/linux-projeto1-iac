@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#Autor: Túlio Braga
+
 echo "Criando diretórios..."
 
 mkdir /publico
